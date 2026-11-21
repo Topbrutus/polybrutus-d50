@@ -1,0 +1,4 @@
+# SHA256 hashes of original Zenodo artifacts for 10.5281/zenodo.24429826
+38b730f0b63c631222b8f9f96187401cfb38da78c2b7141c00c2231886e23f8a  publication/POLYBRUTUS_50D_NOTE.pdf
+0130c197acd8ef08a6a5b4a0d530c40deb9b2bf907f989f2d9cb19204491b1c4  [external frozen science Git tag archive] POLYBRUTUS_D50_SOURCE_v0.1.0_GITHUB_TAG.zip
+e371670c9f5b5acc74780b8d61146b449cdbca234bf6cf0e55e2fb7230fc85d3  results/certificate_d50.json
