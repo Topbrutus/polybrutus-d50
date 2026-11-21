@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the Zenodo DOI of the D50 preprint once published."
+title: "Polybrutus 50D: Exact 55-Point Euclidean Metric and Forty-Fourfold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d50
+abstract: "Exact 55-point norm-one Euclidean labelled squared-distance metric preserving D49's 1431 pairs, minimal affine rank 50, and separately chosen ideal graph."
